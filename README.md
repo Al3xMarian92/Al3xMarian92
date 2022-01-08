@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Al3xMarian92
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Software Tester Java
+- 👀 I’m interested to learn anything about Front-End and Java.
+- 🌱 I’m currently learning Software Tester Java, Front-End.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me, private messages.
 
